@@ -33,11 +33,9 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+จากการทดลองพบว่า จะขึ้นข้อความ Hello
+
+![](https://github.com/patimakorn54/LAB-04/blob/master/imgs/Capture1.JPG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
@@ -45,21 +43,14 @@
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+![](https://github.com/patimakorn54/LAB-04/blob/master/imgs/Capture2.JPG?raw=true)
 
 
 ### คำถาม 4.1 
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ไม่ เพราะว่าข้อความ HelloWorld ติดกัน
 
 
 ## 2. การทดลองเมดธอด Console.WriteLine()
